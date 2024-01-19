@@ -91,7 +91,7 @@ $html = <<<END
 
   <body>
     <h1>EM5Stack Board List</h1>
-    <table>"
+    <table>
 END;
 
 $html .= "      <thead><tr>";
@@ -143,7 +143,7 @@ $html = <<<END
 
   <body>
     <h1>EM5Stack Board List2</h1>
-    <table>"
+    <table>
 END;
 
 $html .= "      <thead><tr>";
