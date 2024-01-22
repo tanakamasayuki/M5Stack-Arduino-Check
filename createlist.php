@@ -90,7 +90,7 @@ $html = <<<END
   </head>
 
   <body>
-    <h1>EM5Stack Board List</h1>
+    <h1>M5Stack Board List</h1>
     <table>
 END;
 

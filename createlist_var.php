@@ -118,7 +118,7 @@ $html = <<<END
   </head>
 
   <body>
-    <h1>EM5Stack Variants List</h1>
+    <h1>M5Stack Variants List</h1>
     <table>
 END;
 
